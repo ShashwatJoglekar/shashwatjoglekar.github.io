@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate student in Physics (and soon Mathematics) at University of Illinois Urbana Champaign. I also work in the ATLAS HL-ZDC group under Professor Matthias Grosse Perdekamp as a research assistant, and hold the Social Projects VP and Astrotech Committee Lead Positions in Tau Beta Pi Illinois Alpha. My interests include applied and experimental physics, particularly instrumentation, condensed matter physics and nuclear physics as well as areas of materials research. Outside of academics, I also have hobbies ranging from music to photography and am interested in sports and anime.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Applied Physics:** Instrumentation, Optics, Experimental Design, Radiation Measurements
+- **Experimental Physics:** Experimental Design, Experimental Evaluation, Data Acquisition, Data Analysis
+- **Nuclear Physics:** Irradiated Materials, Radiation Hard Materials
+- **High-Energy Physics:** Accelerator Physics, Quark-Gluon Plasma, High-Energy Collisions
+- **Condensed Matter physics:** Radiation Hard Materials, Superconductors, Quantum Materials
 
-## News
+## Positions
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Research Assistant:** ATLAS HL-ZDC Group under Professor Matthias Grosse Perdekamp. Study on radiation hardness of LHC-irradiated fused silica materials
+- **Astrotech Committee Lead:** Tau Beta Pi (Illinois Alpha Chapter) Committee Lead. The astrotech project aims to create a set of new interactive planetarium experiences
+- **Social Projects VP:** Tau Beta Pi (Illinois Alpha Chapter) Social Projects VP. Help organize and manage social events for the chapter.
 
 {% include_relative _includes/publications.md %}
 
