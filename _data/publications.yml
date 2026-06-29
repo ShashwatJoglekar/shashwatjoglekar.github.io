@@ -32,7 +32,7 @@ main:
     notes: PHYS 246 (Intro to Computational Physics) Finals Project
     image: ./assets/img/teaser_example.png
 
-    - title: "Astrotech Project"
+  - title: "Astrotech Project"
     authors: <strong>Shashwat Joglekar</strong>, Tau Beta Pi Astrotech Committee
     #conference_short: CVPR
     #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
