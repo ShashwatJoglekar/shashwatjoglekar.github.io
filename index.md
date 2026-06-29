@@ -48,3 +48,4 @@ I am an undergraduate student in Physics (and soon Mathematics) at University of
 - [Amy Liu](https://www.linkedin.com/in/amy-l-68141124b/) Materials Engineering (Imperial College London)
 - [Summer Cheng](https://www.linkedin.com/in/summer-cheng-usc/?skipRedirect=true) Mechanical Engineering (University of Southern California)
 - [Devanshu Pandya](https://www.linkedin.com/in/devanshu-pandya/) Computer Science (University of Illinois Urbana Champaign)
+- [Samyak Jain](https://www.linkedin.com/in/skjn/) Physics and Mathematics (University of Illinois Urbana Champaign)
