@@ -33,3 +33,8 @@ I am an undergraduate student in Physics (and soon Mathematics) at University of
 - [Aryan Dalal](https://dalalaryan.github.io) Applied Math and Computer Engineering (University of California Los Angeles)
 - [Pavit Gogia](https://pavit.gogia.ie) Computer Science and Business (Trinity College Dublin)
 - [Rithwik Sharma](https://www.linkedin.com/in/rithwiksharma) Computer Engineering (Georgia Institute of Technology)
+- [Mike Wen](https://future-wool-0d5.notion.site/Mike-s-Portfolio-2e1e4d628bf38013b322f4cb038f9c92) Optical Physics and Electrical Engineering (University of Illinois Urbana Champaign)
+- [Suren Anbarchian](https://www.linkedin.com/in/surenanbarchian/) Mathematics (University of Illinois Urbana Champaign)
+- [Divyan Dhawan](https://www.linkedin.com/in/divyan-dhawan-2226463b7/) Computer Science Engineering (SRMIST Chennai)
+- [Aditya Oak](https://www.linkedin.com/in/aditya-oak-898157312/) Mechanical Engineering (University of Illinois Urbana Champaign)
+- [Padmaksh Khandelwal](https://shashwatjoglekar.github.io/) CS+Mathematics (University of Illinois Urbana Champaign)
