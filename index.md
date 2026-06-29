@@ -22,6 +22,13 @@ I am an undergraduate student in Physics (and soon Mathematics) at University of
 
 {% include_relative _includes/publications.md %}
 
+## Hobbies and Personal Interests
+- Piano and Music Composition
+- Photography
+- Video/Photo Editing
+- Rock/Jpop/Classical/Jazz Music
+- Cities Skylines 
+
 ## Friends
 - [Aryan Dalal](https://dalalaryan.github.io) Applied Math and Computer Engineering (University of California Los Angeles)
 - [Pavit Gogia](https://pavit.gogia.ie) Computer Science and Business (Trinity College Dublin)
