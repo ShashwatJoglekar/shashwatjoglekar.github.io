@@ -25,8 +25,8 @@ main:
     authors: Shashwat Joglekar, Mike Wen
     #conference_short: CVPR
     #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    #pdf: https://github.com/ShashwatJoglekar/Electron-Positron-Hadronization-Modelling/blob/38dbd7cb012cd0fe6f55b83df1211440128109d5/PHYS%20246%20Honors%20Project%20-%20Shashwat%20Joglekar.pdf
-    #code: https://github.com/ShashwatJoglekar/Electron-Positron-Hadronization-Modelling
+    pdf: https://github.com/mikewen2024/SBS-Sims/blob/f67680737a38fd967e9205ad1e94976a9f428457/PHYS%20246%20Final%20Project%20-%20Mike%20W%2C%20Shashwat%20J.pdf
+    code: https://github.com/mikewen2024/SBS-Sims
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: PHYS 246 (Intro to Computational Physics) Finals Project
