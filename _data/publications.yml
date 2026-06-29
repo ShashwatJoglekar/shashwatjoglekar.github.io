@@ -7,7 +7,7 @@ main:
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    #image: ./assets/img/teaser_example_2.png
     notes: Work in Progress
 
   - title: "Electron-Positron-Hadronization Modelling"
@@ -19,7 +19,7 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: PHYS 246 (Intro to Computational Physics) Honors Project
-    image: ./assets/img/teaser_example.png
+    #image: ./assets/img/teaser_example.png
 
   - title: "Stimulated Brillouin Scattering"
     authors: Shashwat Joglekar, Mike Wen
@@ -30,7 +30,7 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: PHYS 246 (Intro to Computational Physics) Finals Project
-    image: ./assets/img/teaser_example.png
+    #image: ./assets/img/teaser_example.png
 
   - title: "Astrotech Project"
     authors: <strong>Shashwat Joglekar</strong>, Tau Beta Pi Astrotech Committee
@@ -41,4 +41,4 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Blender/Unity Simulations and Data for the Astrotech Projects
-    image: ./assets/img/teaser_example.png
+    #image: ./assets/img/teaser_example.png
