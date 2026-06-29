@@ -22,4 +22,7 @@ I am an undergraduate student in Physics (and soon Mathematics) at University of
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Friends
+- [Aryan Dalal](https://dalalaryan.github.io) Applied Math and Computer Engineering (University of California Los Angeles)
+- [Pavit Gogia](https://pavit.gogia.ie) Computer Science and Business (Trinity College Dublin)
+- [Rithwik Sharma](https://www.linkedin.com/in/rithwiksharma) Computer Engineering (Georgia Institute of Technology)
