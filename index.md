@@ -49,3 +49,6 @@ I am an undergraduate student in Physics (and soon Mathematics) at University of
 - [Summer Cheng](https://www.linkedin.com/in/summer-cheng-usc/?skipRedirect=true) Mechanical Engineering (University of Southern California)
 - [Devanshu Pandya](https://www.linkedin.com/in/devanshu-pandya/) Computer Science (University of Illinois Urbana Champaign)
 - [Samyak Jain](https://www.linkedin.com/in/skjn/) Physics and Mathematics (University of Illinois Urbana Champaign)
+- [Yutaka Gomi](https://www.linkedin.com/in/ygomi/) Computer Science (University of Illinois Urbana Champaign)
+- [Luo Zhou](https://www.linkedin.com/in/luo-zhou-b876b93a3/) Astrophysics (University of Illinois Urbana Champaign)
+- [Aarav Fatani](https://www.linkedin.com/in/aarav-fatnani-b64592384/) Nuclear Plasma and Radiological Engineering (University of Illinois Urbana Champaign)
